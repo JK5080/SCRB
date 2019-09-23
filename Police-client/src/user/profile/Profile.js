@@ -20,7 +20,7 @@ class Profile extends Component {
             name:'rahul',
             isLoading: false
         }
-        // this.loadUserProfile = this.loadUserProfile.bind(this);
+
     }
 
     // loadUserProfile(username) {
